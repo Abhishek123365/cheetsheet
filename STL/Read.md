@@ -1,2 +1,2 @@
 # to run cpp file *g++ <filename>.cpp -o filename && .\filename.exe*
-# to run vectors.cpp g++ vectors.cpp -o vectors && ./vectors.exe
+# to run STL.cpp g++ STL.cpp -o STL && ./STL.exe
